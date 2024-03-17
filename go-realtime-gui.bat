@@ -1,2 +1,2 @@
-runtime\python.exe gui_v1.py
+python gui_v1.py
 pause
